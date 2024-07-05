@@ -1,18 +1,20 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Save Snapshot
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: Personal
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Started life as a Python project, ported to C#. Simple GUI for saving and
+  hot-swapping between different versions of the contents of a directory that
+  changes often, intended for use in managing video game save files.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project thumbnail image
+  url: /images/Untitled.png
+  altText: Save Snapshot
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Untitled.png
   altText: Project image
 ---
 

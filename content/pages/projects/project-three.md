@@ -1,18 +1,20 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Patreon Art Portal
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  A website built for an artist funded entirely through Patreon contributions,
+  which managed an email subscription list connected to the Patreon API and
+  monitored for new openings in highly-sought limited Patron subscription tiers 
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/patreon email logo.webp
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/patreon email logo.webp
   altText: Project image
 ---
 
