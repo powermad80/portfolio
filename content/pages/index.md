@@ -16,7 +16,9 @@ sections:
     title: 'I make websites, desktop applications, and command-line programs'
     subtitle: >-
       Seasoned full-stack and application developer, specializing in .NET
-      solutions and internal development tools.
+      solutions and internal development tools. Experienced in creating and
+      maintaining responsive and scalable applications whether they're internal
+      company tools or client-facing products.
     styles:
       self:
         height: auto
