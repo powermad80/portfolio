@@ -4,7 +4,11 @@ title: This cool snake
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: I take care of this sweet little noodle. Her name is Raven.
+description: >-
+  I take care of this sweet little noodle. Her name is Raven and she's a ball
+  python. She's still a small baby snake but someday she'll grow up into large
+  and long lady and take up quite a lot of space, even though I still won't be
+  able to charge her for rent
 featuredImage:
   type: ImageBlock
   url: /images/raven.webp
